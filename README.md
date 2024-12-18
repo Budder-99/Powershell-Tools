@@ -1,4 +1,4 @@
-# ServuceDesk Powershell tools
+# ServiceDesk Powershell tools
 A collection of Gui and CLI Powershell based tools I have developed to make my work life easier working in IT.
 Compiled using WinPS2exe into EXE's with GUI based frontend so it can be used by anyone.
 
