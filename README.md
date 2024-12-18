@@ -7,4 +7,7 @@ Compiled using WinPS2exe into EXE's with GUI based frontend so it can be used by
 1. Dark Moder
      Forces dark mode theme on windows. Bypasses any group policy. Resets on reboot.
 
-2. Rebooter - 
+2. Rebooter - Message and non message varients availible.
+     Forces a remote machine to reboot, either with a warning message or not.
+
+3.
